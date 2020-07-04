@@ -21,7 +21,7 @@ The environment is considered solved when the agent achives a average reward of 
 
 ### Instaling the environment 
 
-Just access the Navigation.ypnb file and run the cell ```!pip -q install ./python``` all the necessary files will be instaled
+In the cmd access the python folder, an easy way to do this is access the folder throught the explorer and in the bar address bar, the one showing the path to the folder type ```cmd --admin```. In the cmd type ```pip install -r requirements.txt``` and the dependencies will be installed
 
 ### How to train the agent
 
