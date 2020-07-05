@@ -33,6 +33,8 @@ Then, you have to download the environment from one of the links below. You need
 
 (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
+After dowloading, unzip the archive in the root path, access the report.ypnb and adjust the path in the line ```env = UnityEnvironment(file_name="/data/Banana_Linux_NoVis/Banana.x86_64")``` 
+
 ### How to train the agent
 
 Also in the Navigation repository, just run the cells except the ```!pip -q install ./python``` (If you have runned it before). All the imports will be made and the training will start.
