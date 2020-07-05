@@ -30,6 +30,7 @@ Then, you have to download the environment from one of the links below. You need
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
 - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
+font: [Udacity's getting started with Porject Navigation](https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_navigation/README.md)
 
 (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
