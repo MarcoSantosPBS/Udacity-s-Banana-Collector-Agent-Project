@@ -38,4 +38,4 @@ After dowloading, unzip the archive in the root path, access the report.ypnb and
 
 ### How to train the agent
 
-Also in the Navigation repository, just run the cells except the ```!pip -q install ./python``` (If you have runned it before). All the imports will be made and the training will start.
+Also in the report.ypnb, just run the cells except the ```!pip -q install ./python``` (If you have runned it before). All the imports will be made and the training will start.
